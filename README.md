@@ -38,9 +38,5 @@ I'm committed to continuous learning and staying up-to-date with the latest clou
 
 ## Connect with Me
 
-<<<<<<< HEAD
-* [https://www.linkedin.com/in/stephen-tyers/]
-=======
 [LinkedIn Profile](https://www.linkedin.com/in/stephen-tyers/)
->>>>>>> f55fa8d32cc12c12f716361fe3b6c5e8d870f386
 
