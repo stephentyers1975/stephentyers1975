@@ -6,7 +6,7 @@ Azure Administrator & DevOps Cloud Engineer | IaC | Kubernetes | Docker | GitHub
 
 ## About Me
 
-I'm an Azure Administrator and Cloud Engineer with a passion for automating infrastructure and streamlining workflows through DevOps practices. I specialize in deploying, managing, and optimizing Azure cloud environments, with a strong focus on Infrastructure as Code (IaC) and containerization. I have an extensive background in onpremises server, network, virtualisation and storage technologies and have transitioned over to a cloud first approach. My exerience has been gained in the private, public and government sectors. 
+I'm an Azure/M365 Cloud Engineer with a passion for automating infrastructure and streamlining workflows through DevOps practices. I specialize in deploying, managing, and optimizing Azure cloud environments, with a strong focus on Infrastructure as Code (IaC) and containerization. I have an extensive background in onpremises server, network, virtualisation and storage technologies and have transitioned over to a cloud first approach. My exerience has been gained in the private, public and government sectors. 
 
 My expertise includes:
 
@@ -23,11 +23,11 @@ I'm committed to continuous learning and staying up-to-date with the latest clou
 
 ## My Skills
 
-* **Cloud:** Microsoft Azure
+* **Cloud:** Microsoft Azure, 365
 * **Infrastructure as Code:** Terraform, Bicep, ARM
 * **Containerization:** Docker, Kubernetes, Helm
 * **CI/CD:** GitHub Actions
-* **Scripting:** PowerShell, Azure CLI
+* **Scripting:** PowerShell, Azure CLI, Bash
 * **Configuration Management:** Ansible, SDK's
 * **Operating Systems:** Linux, Windows Server
 * **Monitoring:** Prometheus, Grafana
@@ -38,5 +38,5 @@ I'm committed to continuous learning and staying up-to-date with the latest clou
 
 ## Connect with Me
 
-* [https://www.linkedin.com/in/stephen-t-19734a107/]
+* [https://www.linkedin.com/in/stephen-tyers/]
 
