@@ -13,7 +13,7 @@ My expertise includes:
 * **Azure Administration:** Virtual Machines, Virtual Networks, Azure Active Directory, Storage, Azure Monitor, Azure Backup, and Recovery Services.
 * **Infrastructure as Code (IaC):** Terraform for automated infrastructure provisioning and management.
 * **Containerization:** Docker for building and managing container images, and Kubernetes for orchestrating containerized applications.
-* **CI/CD:** GitHub Actions for automating build, test, and deployment pipelines.
+* **CI/CD:** Azure Devops Pipelines/GitHub Actions for automating build, test, and deployment pipelines.
 * **Automation:** PowerShell and Azure CLI for scripting and automation of routine tasks.
 
 I'm committed to continuous learning and staying up-to-date with the latest cloud and DevOps technologies.
@@ -26,7 +26,7 @@ I'm committed to continuous learning and staying up-to-date with the latest clou
 * **Cloud:** Microsoft Azure, 365
 * **Infrastructure as Code:** Terraform, Bicep, ARM
 * **Containerization:** Docker, Kubernetes, Helm
-* **CI/CD:** GitHub Actions
+* **CI/CD:** Azure Devops Pipelines/GitHub Actions
 * **Scripting:** PowerShell, Azure CLI, Bash
 * **Configuration Management:** Ansible, SDK's
 * **Operating Systems:** Linux, Windows Server
